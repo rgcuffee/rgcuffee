@@ -7,7 +7,7 @@
  ### Talking about Personal Stuffs:
  - 🔭 I’m currently learning Kubernetes
  - 💬 Ask me about web apps my wife (a mental health counseling student) and I are currently developing! 
-   xremdr.com
+   - www.xremdr.com
  - ⚡ Fun fact: I used to be a paratrooper🪂 and competitive break dancer 🕺
  - 📫 How to reach me: rgcuffee@gmail.com
 
