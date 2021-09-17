@@ -2,7 +2,7 @@
 
  I am a full-stack software engineer and part-time soldier in the Army Reserves.
  
- I'm passionate about working with high performing teams and working on projects that make a difference in the world.
+ I'm passionate about learning new tech, working with high performing teams, and working on projects that make a difference in the world.
  
  ### Talking about Personal Stuffs:
  - 🔭 I’m currently learning Kubernetes 
