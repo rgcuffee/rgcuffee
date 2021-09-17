@@ -5,7 +5,7 @@
  I'm passionate about working with high performing teams and working on projects that make a difference in the world.
  
  ### Talking about Personal Stuffs:
- - 🔭 I’m currently learning Kubernetes
+ - 🔭 I’m currently learning Kubernetes 
  - 💬 Ask me about web apps my wife (a mental health counseling student) and I are currently developing! 
    - https://xremdr.com/
  - ⚡ Fun fact: I used to be a paratrooper🪂 and competitive break dancer 🕺
