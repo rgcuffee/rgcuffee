@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+ I am a full-stack software engineer and part-time soldier in the Army Reserves.
+ 
+ I'm passionate about working with high performing teams and working on projects that make a difference in the world.
+ 
+ ### Talking about Personal Stuffs:
+ - 🔭 I’m currently learning Kubernetes
+ - 💬 Ask me about web apps my wife (a mental health counseling student) and I are currently developing!
+ - ⚡ Fun fact: I used to be a paratrooper🪂 and competitive break dancer 🕺
+ - 📫 How to reach me: rgcuffee@gmail.com
+
+ 
 <!--
 **rgcuffee/rgcuffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
