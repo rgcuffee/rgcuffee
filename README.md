@@ -8,7 +8,7 @@
  - 🔭 I’m currently learning Kubernetes 
  - 💬 Ask me about web apps my wife (a mental health counseling student) and I are currently developing! 
    - https://xremdr.com/
- - ⚡ Fun fact: I used to be a paratrooper🪂 and competitive break dancer 🕺
+ - ⚡ Fun fact: I used to be a paratrooper in the US Army 🪂 and competitive break dancer 🕺
  - 📫 How to reach me: rgcuffee@gmail.com
 
  
