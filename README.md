@@ -12,7 +12,7 @@
    - [Demo](https://xremdr.com)
  - ⚡ Fun fact: I used to be a paratrooper in the US Army 🪂 and competitive break dancer 🕺
  - 📫 How to reach me: rgcuffee@gmail.com
- -  <a href="https://www.linkedin.com/in/richard-cuffee-0b0b6962/">
+ <a href="https://www.linkedin.com/in/richard-cuffee-0b0b6962/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
  
