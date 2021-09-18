@@ -6,7 +6,7 @@
  
  ### Talking about Personal Stuffs:
  - 🔭 I’m currently learning Kubernetes 
- - 🔨 I'm currently working on Season 2 of Atelier: Database System Design. 
+ - 🔨 I'm currently working on Season 2 of Atelier: Database System Design
    - [Season 1](https://github.com/alex-richard-alisha/sdc-product-overview)
  - 💬 Ask me about web apps my wife (a mental health counseling student) and I are currently developing! 
    - [Demo](https://xremdr.com)
