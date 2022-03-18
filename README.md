@@ -6,8 +6,8 @@
  
  ### Talking about Personal Stuffs:
  - 🔨 I'm currently building:
-  - calmplace.io 
-  - check out dev intstance at  <a href="https://calm-place.herokuapp.com/">
+   - calmplace.io 
+   - check out dev intstance at  <a href="https://calm-place.herokuapp.com/">
  - 💬 Ask me about web apps my wife (a mental health counseling student) and I are currently developing! 
    - [Demo](https://xremdr.com)
  - ⚡ Fun fact: I used to be a paratrooper in the US Army 🪂 and competitive break dancer 🕺
