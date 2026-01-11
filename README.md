@@ -1,16 +1,6 @@
 # Hi there 🤙
 
- I am a full-stack software engineer and part-time soldier in the Army Reserves.
  
- I'm passionate about learning new tech, working with high performing teams, and working on projects that make a difference in the world.
- 
- ### Talking about Personal Stuffs:
- - 🔨 I'm currently building:
-   - calmplace.io 
-   - check out dev intstance at: https://calm-place.herokuapp.com
- - 💬 Ask me about web apps my wife (a mental health counseling student) and I are currently developing! 
-   - [Demo](https://xremdr.com)
- - ⚡ Fun fact: I used to be a paratrooper in the US Army 🪂 and competitive break dancer 🕺
  - 📫 How to reach me: rgcuffee@gmail.com
  <a href="https://www.linkedin.com/in/richard-cuffee-0b0b6962/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
